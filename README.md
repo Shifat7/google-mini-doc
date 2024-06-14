@@ -1,5 +1,5 @@
 # mini-google-doc
-an MVP google doc clone that can have multiple users (or in this case tab instances) update the document in real time
+an MVP google doc clone that can emulate multiple users (or in this case tab instances) updating the document in real time
 
 ## How to run
 - goto client dir and npm run start
